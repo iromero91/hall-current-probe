@@ -1,0 +1,14 @@
+# KiCAD temporary files
+*.cmp
+*.net
+# KiCAD backups and autosaves
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.v4
+_saved_*
+_autosave-*
+# Editor backups and autosaves
+*~
+\#*\#
+.\#*
