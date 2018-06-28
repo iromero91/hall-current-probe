@@ -106,10 +106,10 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "Dual Channel Hall Current Oscilloscope Probe"
-Date "2018-06-24"
+Date "2018-06-27"
 Rev "1.0"
 Comp "Electrum EE"
-Comment1 ""
+Comment1 "© 2018 Jose I Romero"
 Comment2 ""
 Comment3 ""
 Comment4 ""

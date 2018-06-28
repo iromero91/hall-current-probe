@@ -1,4 +1,4 @@
-update=Sat 23 Jun 2018 12:42:00 AM CDT
+update=Wed 27 Jun 2018 10:34:03 PM CDT
 version=1
 last_client=kicad
 [cvpcb]
@@ -110,17 +110,6 @@ LibName97=schlib/library/u-blox
 LibName98=schlib/library/Vishay
 LibName99=schlib/library/Winbond
 LibName100=schlib/library/Xilinx
-[schematic_editor]
-version=1
-PageLayoutDescrFile=schlib/page_layouts/basic.kicad_wks
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=60
-ERC_TestSimilarLabels=1
 [pcbnew]
 version=1
 PageLayoutDescrFile=pcblib/page_layouts/empty.kicad_wks
@@ -140,3 +129,13 @@ SolderMaskMinWidth=0
 DrawSegmentWidth=0.2
 BoardOutlineThickness=0.15
 ModuleOutlineThickness=0.15
+[schematic_editor]
+version=1
+PageLayoutDescrFile=schlib/page_layouts/basic.kicad_wks
+PlotDirectoryName=fabrication
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceAjustPassiveValues=0
+LabSize=60
+ERC_TestSimilarLabels=1
